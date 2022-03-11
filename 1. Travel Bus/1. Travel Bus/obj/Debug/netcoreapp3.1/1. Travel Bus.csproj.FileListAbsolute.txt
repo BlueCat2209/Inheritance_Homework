@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\bin\Debug\netcoreapp3.1\1. Travel Bus.exe
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\bin\Debug\netcoreapp3.1\1. Travel Bus.deps.json
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\bin\Debug\netcoreapp3.1\1. Travel Bus.runtimeconfig.json
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\bin\Debug\netcoreapp3.1\1. Travel Bus.runtimeconfig.dev.json
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\bin\Debug\netcoreapp3.1\1. Travel Bus.dll
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\bin\Debug\netcoreapp3.1\1. Travel Bus.pdb
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.AssemblyInfo.cs
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.dll
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.pdb
+C:\[Timmy]\Homework\Inheritance\1. Travel Bus\1. Travel Bus\obj\Debug\netcoreapp3.1\1. Travel Bus.genruntimeconfig.cache
