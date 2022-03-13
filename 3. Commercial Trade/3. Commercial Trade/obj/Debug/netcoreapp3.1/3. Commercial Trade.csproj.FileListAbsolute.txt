@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.AssemblyInfo.cs
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\bin\Debug\netcoreapp3.1\3. Commercial Trade.exe
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\bin\Debug\netcoreapp3.1\3. Commercial Trade.deps.json
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\bin\Debug\netcoreapp3.1\3. Commercial Trade.runtimeconfig.json
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\bin\Debug\netcoreapp3.1\3. Commercial Trade.runtimeconfig.dev.json
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\bin\Debug\netcoreapp3.1\3. Commercial Trade.dll
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\bin\Debug\netcoreapp3.1\3. Commercial Trade.pdb
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.dll
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.pdb
+C:\[Timmy]\Homework\3. Commercial Trade\3. Commercial Trade\obj\Debug\netcoreapp3.1\3. Commercial Trade.genruntimeconfig.cache

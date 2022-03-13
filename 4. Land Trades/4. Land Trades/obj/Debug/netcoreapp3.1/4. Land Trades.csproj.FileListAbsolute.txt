@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\bin\Debug\netcoreapp3.1\4. Land Trades.exe
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\bin\Debug\netcoreapp3.1\4. Land Trades.deps.json
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\bin\Debug\netcoreapp3.1\4. Land Trades.runtimeconfig.json
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\bin\Debug\netcoreapp3.1\4. Land Trades.runtimeconfig.dev.json
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\bin\Debug\netcoreapp3.1\4. Land Trades.dll
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\bin\Debug\netcoreapp3.1\4. Land Trades.pdb
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.AssemblyInfo.cs
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.dll
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.pdb
+C:\[Timmy]\Homework\Inheritance\4. Land Trades\4. Land Trades\obj\Debug\netcoreapp3.1\4. Land Trades.genruntimeconfig.cache
