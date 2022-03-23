@@ -1,0 +1,14 @@
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\bin\Debug\netcoreapp3.1\6. Hotel Management.exe
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\bin\Debug\netcoreapp3.1\6. Hotel Management.deps.json
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\bin\Debug\netcoreapp3.1\6. Hotel Management.runtimeconfig.json
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\bin\Debug\netcoreapp3.1\6. Hotel Management.runtimeconfig.dev.json
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\bin\Debug\netcoreapp3.1\6. Hotel Management.dll
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\bin\Debug\netcoreapp3.1\6. Hotel Management.pdb
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.csproj.AssemblyReference.cache
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.AssemblyInfoInputs.cache
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.AssemblyInfo.cs
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.csproj.CoreCompileInputs.cache
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.dll
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.pdb
+C:\[Timmy]\Homework\Inheritance\6. Hotel Management\6. Hotel Management\obj\Debug\netcoreapp3.1\6. Hotel Management.genruntimeconfig.cache
