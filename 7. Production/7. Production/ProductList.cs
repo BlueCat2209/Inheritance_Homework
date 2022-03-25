@@ -285,7 +285,7 @@ namespace _7._Production
         }
         public void SortListbyAmount()
         {
-            Array.Sort(this.List, new Product.NameComparer());
+            Array.Sort(this.List, new Product.Amount    Comparer());
         }
 
         // Constructors
