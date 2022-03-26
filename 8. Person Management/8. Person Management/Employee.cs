@@ -20,7 +20,13 @@ namespace _8._Person_Management
         // Methods
         public double GetSalary() => this.SalaryRate * this.BasicSalary;
         public string GetRated() => (this.SalaryRate >= 3) ? "High" : ((this.SalaryRate >= 1.5) ? "Middle" : "Low");
-
+        public override void InformationToString()
+        {
+            Console.WriteLine("=============");
+            Console.WriteLine($"Name: {this.GetName()}");
+            Console.WriteLine($"Address: {this.GetAddress()}");
+            Console.WriteLine($"Salary: {GetSalary()}");
+        }
         // Constructor
         public Employee(Person person, double salaryRate)
         {

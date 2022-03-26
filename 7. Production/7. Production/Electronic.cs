@@ -22,7 +22,7 @@ namespace _7._Production
         public string GetSellingStatus() => this.GetAmount() < 3 ? "Good-Selling" : "Normal";
 
         // Method
-        public void PrintProduct()
+        public override void PrintProduct()
         {
             Console.WriteLine("======================");
             Console.WriteLine($"ID: {this.GetID()}");

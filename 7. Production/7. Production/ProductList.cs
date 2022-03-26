@@ -283,9 +283,10 @@ namespace _7._Production
         {
             Array.Sort(this.List, new Product.NameComparer());
         }
+
         public void SortListbyAmount()
-        {
-            Array.Sort(this.List, new Product.Amount    Comparer());
+        {       
+            Array.Sort(this.List, new Product.AmountComparer());
         }
 
         // Constructors

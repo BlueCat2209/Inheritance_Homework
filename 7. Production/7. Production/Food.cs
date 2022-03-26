@@ -24,7 +24,7 @@ namespace _7._Production
         public string GetSellingStatus() => ((this.GetAmount() > 0) & (this.GetExprirationDate() >= DateTime.Now)) ? "Hard-Selling" : "Normal";
 
         // Method
-        public void PrintProduct()
+        public override void PrintProduct()
         {
             Console.WriteLine("======================");
             Console.WriteLine($"ID: {this.GetID()}");

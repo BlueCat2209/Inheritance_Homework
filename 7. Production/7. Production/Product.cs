@@ -5,7 +5,7 @@ using System.Text;
 namespace _7._Production
 {
 
-    class Product 
+    class Product
     {
         // Comparer
         public class NameComparer : IComparer<Product>
@@ -15,7 +15,7 @@ namespace _7._Production
                 return a.GetName().CompareTo(b.GetName());
             }
         }
-        public class AmountComparer 
+        public class AmountComparer : IComparer<Product>
         {
             public int Compare(Product a, Product b)
             {
@@ -31,7 +31,7 @@ namespace _7._Production
 
         // Setters
         public void SetID(string id) => this.ID = id.Trim() == "" ? "#UNDEFINED" : id;
-        public void SetName(string name) => this.Name= name.Trim() == "" ? "#UNDEFINED" : name;
+        public void SetName(string name) => this.Name = name.Trim() == "" ? "#UNDEFINED" : name;
         public void SetPrice(int price) => this.Price = price > 0 ? price : 0;
         public void SetAmount(int amount) => this.Amount = amount > 0 ? amount : 0;
 
@@ -40,6 +40,12 @@ namespace _7._Production
         public string GetName() => this.Name;
         public int GetPrice() => this.Price;
         public int GetAmount() => this.Amount;
+
+        // Method
+        public virtual void PrintProduct()
+        {
+
+        }
 
         // Constructor
         public Product()
